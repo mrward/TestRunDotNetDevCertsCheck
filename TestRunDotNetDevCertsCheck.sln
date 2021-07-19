@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunDotNetDevCertsCheck", "TestRunDotNetDevCertsCheck\TestRunDotNetDevCertsCheck.csproj", "{25BD4BDA-DB52-48B2-8025-1F000E2832FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunDotNetDevCertsCheck.DotNetCore", "TestRunDotNetDevCertsCheck.DotNetCore\TestRunDotNetDevCertsCheck.DotNetCore.csproj", "{00AE93E3-2FA4-42A4-8DF1-EF786F3D0E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25BD4BDA-DB52-48B2-8025-1F000E2832FA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{25BD4BDA-DB52-48B2-8025-1F000E2832FA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{25BD4BDA-DB52-48B2-8025-1F000E2832FA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{25BD4BDA-DB52-48B2-8025-1F000E2832FA}.Release|anycpu.Build.0 = Release|anycpu
+		{00AE93E3-2FA4-42A4-8DF1-EF786F3D0E93}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{00AE93E3-2FA4-42A4-8DF1-EF786F3D0E93}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{00AE93E3-2FA4-42A4-8DF1-EF786F3D0E93}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{00AE93E3-2FA4-42A4-8DF1-EF786F3D0E93}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029D5DAA-96A6-4098-BD9A-526F513E0290}
+	EndGlobalSection
+EndGlobal
